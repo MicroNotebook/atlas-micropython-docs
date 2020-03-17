@@ -1,5 +1,7 @@
 # Introduction
 
+![atlas_front](../assets/atlas-book/atlas_front.png)
+
 To use the `Atlas` class, you need to import it from atlas.py into your program. Then, it needs to be initialized and set to a variable. Put the following code at the top of your main program file to do this.
 
 ```python

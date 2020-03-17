@@ -2,11 +2,11 @@
 
 The Atlas kit has two 3-digit 7-segment displays.
 
-![displays](../assets/displays.jpg)
+![displays](../assets/atlas-book/displays.jpg)
 
 They are driven by a MAX7219 LED display driver which is located at in the center of the device at the bottom.
 
-![max7219](../assets/max7219.jpg)
+![max7219](../assets/atlas-book/max7219.jpg)
 
 `atlas.py`
 

@@ -2,7 +2,7 @@
 
 The Atlas kit has one buzzer on the bottom right side of the device.
 
-![buzzer](../assets/buzzer.jpg)
+![buzzer](../assets/atlas-book/buzzer.jpg)
 
 `atlas.py`
 
